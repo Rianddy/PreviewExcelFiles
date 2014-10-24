@@ -1,4 +1,4 @@
-Preview Excel Files
+Preview Excel Files (2013 Sep-Dec)
 =================
 
 Requirements: 
@@ -14,6 +14,12 @@ I used JAX-RS to create the RESTful service and it is based on MVC structure.
 Based on the work of Nick Burch and Chris Lott, I successfully achieved preview function so that we can preview huge (500MB+) Xls, Xlsx Excel and CSV file's data during upload process and within limited memory. And then send those data back with JSON format.
 
 I also achieved saving functions based on previous authors' work so that we can save the data of huge (500MB+) Xls, Xlsx excel and CSV files within limited memory according to user's requirements. For example, the user can specify which column or which row to start.
+
+=================
+
+Limitation:
+
+The code is not elegant enough. I may optimize it later.
 
 =================
 
