@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ColFusion_JAVA_REST_API/!svn/ver/12/RESTfulProject/WebContent/WEB-INF/lib
+END
+gson-2.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ColFusion_JAVA_REST_API/!svn/ver/12/RESTfulProject/WebContent/WEB-INF/lib/gson-2.2.1.jar
+END
+jersey-core-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ColFusion_JAVA_REST_API/!svn/ver/12/RESTfulProject/WebContent/WEB-INF/lib/jersey-core-1.0.3.jar
+END
+jsr311-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ColFusion_JAVA_REST_API/!svn/ver/12/RESTfulProject/WebContent/WEB-INF/lib/jsr311-api-1.0.jar
+END
+mysql-connector-java-5.0.8-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ColFusion_JAVA_REST_API/!svn/ver/12/RESTfulProject/WebContent/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar
+END
+jersey-client-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ColFusion_JAVA_REST_API/!svn/ver/12/RESTfulProject/WebContent/WEB-INF/lib/jersey-client-1.0.3.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ColFusion_JAVA_REST_API/!svn/ver/12/RESTfulProject/WebContent/WEB-INF/lib/asm-3.1.jar
+END
+jersey-server-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ColFusion_JAVA_REST_API/!svn/ver/12/RESTfulProject/WebContent/WEB-INF/lib/jersey-server-1.0.3.jar
+END
